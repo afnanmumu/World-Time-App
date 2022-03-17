@@ -1,4 +1,4 @@
-package com.example.flutter_app
+package com.example.connection_with_google_sheet
 
 import io.flutter.embedding.android.FlutterActivity
 
